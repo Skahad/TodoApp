@@ -48,8 +48,8 @@ A sleek and responsive **To-Do List Web Application** built with **React.js**, *
 
 ## 📦 Installation
 1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/iTask-Todo-App.git
+```
+git clone https://github.com/Skahad/TodoApp.git
 ```
 2. Navigate to the project directory:
 ```
