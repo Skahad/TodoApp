@@ -53,7 +53,7 @@ git clone https://github.com/Skahad/TodoApp.git
 ```
 2. Navigate to the project directory:
 ```
-cd iTask-Todo-App
+cd TodoApp
 ```
 3. Install dependencies:
 ```
